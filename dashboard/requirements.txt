@@ -1,0 +1,8 @@
+boto3
+scikit-learn
+pandas --upgrade
+matplotlib
+ntlk
+keras --upgrade
+gensim --upgrade
+tensorflow 
